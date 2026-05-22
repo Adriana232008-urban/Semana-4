@@ -1,0 +1,21 @@
+Reflexión — Semana 4
+
+Es fundamental que las comunidades y las iniciativas ciudadanas tengan la posibilidad de
+construir sus propias herramientas tecnológicas. Cuando una comunidad depende únicamente
+de soluciones comerciales, queda sujeta a los intereses económicos de grandes empresas,
+lo que puede limitar su autonomía y capacidad de acción.
+
+Tecnologías abiertas como Node.js permiten que cualquier persona, sin importar su
+contexto económico, pueda aprender, crear y adaptar soluciones a sus propias necesidades.
+Esto democratiza el acceso al desarrollo de software y reduce las barreras de entrada
+para comunidades con pocos recursos.
+
+Además, las herramientas propias pueden ser diseñadas específicamente para los problemas
+locales de cada comunidad: gestionar información de vecinos, organizar eventos, comunicar
+necesidades o hacer seguimiento de proyectos sociales. Ninguna aplicación genérica
+lo hace tan bien como una construida por y para esa comunidad.
+
+Finalmente, aprender y usar tecnologías abiertas fortalece la soberanía digital. Una
+comunidad que entiende sus herramientas no solo las usa, sino que las mejora, las comparte
+y empodera a otras. Eso es exactamente lo que el software libre y tecnologías como
+Node.js hacen posible.
